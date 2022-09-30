@@ -1,1 +1,1 @@
-console.log('cadatro de cliente implementado!')
+console.log('cadatro de cliente implementado! 2px')
